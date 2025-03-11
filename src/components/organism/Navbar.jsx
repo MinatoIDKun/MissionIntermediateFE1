@@ -1,5 +1,5 @@
 import React from 'react'
-import LogoVideoBelajar from '../assets/images/logo-videobelajar.svg'
+import LogoVideoBelajar from '../../assets/images/logo-videobelajar.svg'
 
 function Navbar() {
 
